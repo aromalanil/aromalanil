@@ -2,10 +2,8 @@
     <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/92082327-ff028080-ede1-11ea-830f-9cc9315999f1.gif"
         width="500" />
-
     <h1>Hai, I am <a href="https://aromalanil.me" target="_blank">Aromal</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
-
     <p>
         <a href="https://www.linkedin.com/in/aromalanil" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -18,7 +16,6 @@
         <a href="https://www.dribbble.com/aromalanil"><img
                 src="https://img.shields.io/badge/dribble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>
     </p><br />
-
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Fullstack developer</b> 🚀 from <b>Kerala, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
@@ -29,7 +26,6 @@
 
 
 <main>
-
     <section>
         <h2><img align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
@@ -74,16 +70,13 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="50" />
         </p>
     </section>
-
     <br />
-
     <section>
         <details>
             <summary>📈 Most Used Languages</summary>
             <br />
             <img alt="Aromal's Github Stats"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalanil&layout=compact&theme=algolia" />
-
         </details>
     </section>
     <br />
@@ -94,7 +87,6 @@
             <br />
             <img alt="Aromal's Github Stats"
                 src="https://github-readme-stats.vercel.app/api?username=aromalanil&show_icons=true&hide_border=true&theme=algolia" />
-
         </details>
     </section>
 
