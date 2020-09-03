@@ -88,11 +88,9 @@
             Repositories</h2>
         <p align="center">
             <a href="https://github.com/aromalanil/whatsend">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend
-&theme=algolia" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend&theme=algolia" /></a>
             <a href="https://github.com/aromalanil/get-ascii-image">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image
-&theme=algolia" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image&theme=algolia" /></a>
             <a href="https://github.com/aromalanil/Markdown-Editor">
                 <img
                     src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=Markdown-Editor&theme=algolia" /></a>
