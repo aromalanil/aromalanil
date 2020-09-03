@@ -1,4 +1,4 @@
-<header align="center">
+<div align="center">
     <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/92082327-ff028080-ede1-11ea-830f-9cc9315999f1.gif"
         width="500" />
@@ -21,12 +21,12 @@
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
         I love building side projects 😍, and most of them are <b>Open source</b>. </p>
 
-</header>
+</div>
 
 
 
-<main>
-    <section>
+<div>
+    <div>
         <h2><img align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
@@ -46,9 +46,9 @@
             <li>👀 Take a look at <a href="https://aromalanil.me/" target="_blank">My Portfolio</a></li>
             <li>📄 Here's my <a href="https://aromalanil.me/assets/resources/resume.pdf" target="_blank">Resume</a></li>
         </ul>
-    </section>
+    </div>
     <br />
-    <section>
+    <div>
         <h2>🛠 Languages and Tools</h2>
         <p align="center">
             <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript_48x48.png"
@@ -69,18 +69,18 @@
                 alt="Java" />
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="50" />
         </p>
-    </section>
+    </div>
     <br />
-    <section>
+    <div>
         <details>
             <summary>📈 Most Used Languages</summary>
             <br />
             <img alt="Aromal's Github Stats"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalanil&layout=compact&theme=algolia" />
         </details>
-    </section>
+    </div>
     <br />
-    <section>
+    <div>
         <details>
             <summary><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151"
                     width="13" /> Github Stats</summary>
@@ -88,12 +88,12 @@
             <img alt="Aromal's Github Stats"
                 src="https://github-readme-stats.vercel.app/api?username=aromalanil&show_icons=true&hide_border=true&theme=algolia" />
         </details>
-    </section>
+    </div>
 
-</main>
+</div>
 
 <hr />
-<footer align="center">
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=aromalanil&color=blueviolet&style=flat-square&label=PROFILE+VIEWS +"
         width="130" />
-</footer>
+</div>
