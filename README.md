@@ -34,13 +34,13 @@
             What I'm up to</h2>
         <ul>
             <li> 👨🏻‍💻 I'm currently working on my Personal Blog ✍🏻</li>
-            <li> 🎓 I'm currently learning Flutter <img align="center"
-                    src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
-                    width="16" /></li>
             <li> 💬 Ask me about React <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148"
                     width="16" />, Javascript <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
+                    width="16" /></li>
+            <li> 🎓 I'm currently learning Flutter <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1533423362/4417/flutter.png?1533423362"
                     width="16" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
@@ -49,50 +49,48 @@
             <li>📄 Here's my <a href="https://aromalanil.me/assets/resources/resume.pdf" target="_blank">Resume</a></li>
         </ul>
     </div>
-    <br />
     <div>
         <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center"
                 width="40" /> Languages and Tools</h2>
         <p align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="60"
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50"
                 alt="Javascript" />&nbsp;&nbsp;&nbsp
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-                alt="React.js" width="60" />&nbsp;&nbsp;&nbsp
+                alt="React.js" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter"
-                width="60" />&nbsp;&nbsp;&nbsp
+                width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
-                width="60" />&nbsp;&nbsp;&nbsp
+                width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS"
-                width="44" />&nbsp;&nbsp;&nbsp
+                width="36" />&nbsp;&nbsp;&nbsp
             <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="Mongo DB"
-                width="60" />&nbsp;&nbsp;&nbsp
+                width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-                alt="Node.js" width="60" />&nbsp;&nbsp;&nbsp
+                alt="Node.js" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
-                width="60" />&nbsp;&nbsp;&nbsp
-            <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="60"
+                width="50" />&nbsp;&nbsp;&nbsp
+            <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="50"
                 alt="Java" />&nbsp;&nbsp;&nbsp
+            <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="50"
+                alt="Dart" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="Sass"
-                width="60" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="60" />&nbsp;&nbsp;&nbsp
+                width="50" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
-                width="60" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Android_robot_2014.svg" alt="Android"
-                width="60" />&nbsp;&nbsp;&nbsp
+                width="50" />&nbsp;&nbsp;&nbsp
+            <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js"
+                width="50" />&nbsp;&nbsp;&nbsp
         </p>
     </div>
-    <br />
     <div>
         <h2><img align="center" width="35"
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h2>
         <p align="center">
             <a href="https://github.com/aromalanil/whatsend">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend
-&theme=algolia" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend&theme=algolia" /></a>
             <a href="https://github.com/aromalanil/get-ascii-image">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image
-&theme=algolia" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image&theme=algolia" /></a>
             <a href="https://github.com/aromalanil/Markdown-Editor">
                 <img
                     src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=Markdown-Editor&theme=algolia" /></a>
@@ -106,21 +104,20 @@
         <h2><img width="30" align="center"
                 src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;My Stats
         </h2>
-        <details>
-            <summary>📈 Most Used Languages</summary>
-            <br />
-            <img alt="Aromal's Github Stats"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalanil&hide=assembly&layout=compact&theme=algolia" />
-        </details>
     </div>
     <br />
     <div>
         <details>
-            <summary><img src="https://emojis.slackmojis.com/emojis/images/1450822151/257/github.png?1450822151"
-                    width="13" /> Github Stats</summary>
+            <summary>
+                <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" /> Github Stats
+            </summary>
             <br />
-            <img alt="Aromal's Github Stats"
-                src="https://github-readme-stats.vercel.app/api?username=aromalanil&show_icons=true&hide_border=true&theme=algolia" />
+            <p align="center">
+                <img alt="Aromal's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=aromalanil&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
+                <img alt="Aromal's Github Stats" height="196"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalanil&hide=assembly&layout=compact&theme=algolia" />
+            </p>
         </details>
     </div>
 
@@ -129,8 +126,8 @@
 <hr />
 </br>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=aromalanil&color=blueviolet&style=flat-square&label=PROFILE+VIEWS +"
-        width="130" /><br />
+    <img src="https://badges.pufler.dev/visits/aromalanil/aromalanil?style=for-the-badge"
+        width="100" /><br />
     <a href="https://www.buymeacoffee.com/aromalanil" target="_blank"><img
             src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
 </div>
