@@ -89,9 +89,9 @@
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend&theme=algolia" /></a>
             <a href="https://github.com/aromalanil/get-ascii-image">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image&theme=algolia" /></a>
-            <a href="https://github.com/aromalanil/Markdown-Editor">
+            <a href="https://github.com/aromalanil/markitdown">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=Markdown-Editor&theme=algolia" /></a>
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=markitdown&theme=algolia" /></a>
             <a href="https://github.com/aromalanil/unchat_frontend">
                 <img
                     src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=unchat_frontend&theme=algolia" /></a>
