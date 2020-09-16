@@ -1,7 +1,6 @@
 <div align="center">
     <img alt="Developer Pic"
-        src="https://user-images.githubusercontent.com/49222186/93324408-777e2e00-f833-11ea-909f-f7e0d9964496.gif"
-        width="500" />
+        src="https://user-images.githubusercontent.com/49222186/93325106-6aae0a00-f834-11ea-979f-27f48f1e9433.gif" width="350"/>
     <h1>Hai, I am <a href="https://aromalanil.me" target="_blank">Aromal</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <p>
