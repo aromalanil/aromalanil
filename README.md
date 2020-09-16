@@ -1,6 +1,6 @@
 <div align="center">
     <img alt="Developer Pic"
-        src="https://user-images.githubusercontent.com/49222186/92082327-ff028080-ede1-11ea-830f-9cc9315999f1.gif"
+        src="https://user-images.githubusercontent.com/49222186/93324408-777e2e00-f833-11ea-909f-f7e0d9964496.gif"
         width="500" />
     <h1>Hai, I am <a href="https://aromalanil.me" target="_blank">Aromal</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
