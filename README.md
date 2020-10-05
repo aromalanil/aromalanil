@@ -106,7 +106,7 @@
     <div>
         <details>
             <summary>
-                <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="20" /> Github Stats
+                :octocat: Github Stats
             </summary>
             <br />
             <p align="center">
