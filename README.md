@@ -85,15 +85,15 @@
             Repositories</h2>
         <p align="center">
             <a href="https://github.com/aromalanil/whatsend">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend&theme=algolia" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=whatsend&theme=dark" /></a>
             <a href="https://github.com/aromalanil/get-ascii-image">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image&theme=algolia" /></a>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=get-ascii-image&theme=dark" /></a>
             <a href="https://github.com/aromalanil/markitdown">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=markitdown&theme=algolia" /></a>
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=markitdown&theme=dark" /></a>
             <a href="https://github.com/aromalanil/unchat_frontend">
                 <img
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=unchat_frontend&theme=algolia" /></a>
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=aromalanil&repo=unchat_frontend&theme=dark" /></a>
         </p>
     </div>
     <br />
@@ -111,9 +111,9 @@
             <br />
             <p align="center">
                 <img height="160" alt="Aromal's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=aromalanil&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
+                    src="https://github-readme-stats.vercel.app/api?username=aromalanil&show_icons=true&hide_border=true&theme=dark&count_private=true" />
                 <img alt="Aromal's Github Stats" height="160"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalanil&hide=assembly&layout=compact&theme=algolia" />
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromalanil&hide=assembly&layout=compact&theme=dark" />
             </p>
         </details>
     </div>
