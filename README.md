@@ -1,7 +1,7 @@
 <div align="center">
     <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/93325106-6aae0a00-f834-11ea-979f-27f48f1e9433.gif" width="350"/>
-    <h1>Hai, I am <a href="https://aromalanil.me" target="_blank">Aromal</a> <img
+    <h1>Hai, I am <a href="https://aromalanil.tech" target="_blank">Aromal</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <p>
         <a href="https://twitter.com/aromalanil5" target="_blank"><img alt="Twitter"
@@ -42,8 +42,8 @@
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:contact@aromalanil.me" target="_blank">contact@aromalanil.me</a></li>
-            <li>👀 Take a look at <a href="https://aromalanil.me/" target="_blank">My Portfolio</a></li>
-            <li>📄 Here's my <a href="https://aromalanil.me/assets/resources/resume.pdf" target="_blank">Resume</a></li>
+            <li>👀 Take a look at <a href="https://aromalanil.tech/" target="_blank">My Portfolio</a></li>
+            <li>📄 Here's my <a href="https://aromalanil.tech/assets/resources/resume.pdf" target="_blank">Resume</a></li>
         </ul>
     </div>
     <div>
