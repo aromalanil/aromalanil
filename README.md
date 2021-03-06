@@ -47,8 +47,7 @@
         </ul>
     </div>
     <div>
-        <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center"
-                width="40" /> Languages and Tools</h2>
+        <h2>🧰 Languages and Tools</h2>
         <p align="center">
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"
                 alt="Javascript" />&nbsp;&nbsp;&nbsp
@@ -75,8 +74,6 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
                 width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js"
-                width="48" />&nbsp;&nbsp;&nbsp
         </p>
     </div>
     <div>
@@ -98,8 +95,7 @@
     </div>
     <br />
     <div>
-        <h2><img width="30" align="center"
-                src="https://emojis.slackmojis.com/emojis/images/1471045834/769/bike.gif?1471045834" /> &nbsp;My Stats
+        <h2>⏱ My Stats
         </h2>
     </div>
     <br />
