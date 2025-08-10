@@ -5,8 +5,7 @@
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>Fullstack developer</b> 🚀 from <b>Kerala, India</b> <img
-            src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
+        I am a <b>Fullstack developer</b> 🚀 from <b>Kerala, India</b> 🇮🇳<br />
         I love building side projects 😍, and most of them are <b>Open source</b>. </p>
     <div>
         <a href="https://twitter.com/aromalanil5" target="_blank"><img alt="Twitter"
@@ -119,7 +118,7 @@
 <hr />
 </br>
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=aromalanil&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
+    <img src="https://komarev.com/ghpvc/?username=aromalanil&color=brightgreen&style=flat-square&label=PROFILE+VIEWS%20+"
         width="130" /><br />
     <a href="https://www.buymeacoffee.com/aromalanil" target="_blank"><img
             src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
